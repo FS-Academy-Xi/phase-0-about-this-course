@@ -2,10 +2,10 @@
 
 ## Welcome
 
-This is the beginning of Academy Xi's Front End Transform Web
-Development Courses. Before we dive into the core topics of these courses, we
-need to cover some fundamental topics and make sure you are fully equipped 
-for success.
+This is the beginning of Academy Xi's Front End Web Development Transform 
+Course. Before we dive into the core topics of these courses, we need to 
+cover some fundamental topics and make sure you are fully equipped for 
+success.
 
 First, we need to get your computer (your _local environment_) set up for
 writing and running code in JavaScript and Ruby. You'll be running code via a
