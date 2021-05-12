@@ -2,7 +2,7 @@
 
 ## Welcome
 
-This is the beginning of Flatiron School's Software Engineering and Web
+This is the beginning of Academy Xi's Front End Transform Web
 Development Courses. Before we dive into the core topics of these courses, we
 need to cover some fundamental topics and make sure you are fully equipped 
 for success.
